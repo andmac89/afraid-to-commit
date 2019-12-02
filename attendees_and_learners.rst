@@ -360,6 +360,6 @@ I followed the tutorial online
 * Jason Gardner
 * Ana
 * Dade Murphy
-* Leticia Ulloa
+* Leti
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
